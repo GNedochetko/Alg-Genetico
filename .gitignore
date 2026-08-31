@@ -1,0 +1,34 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Resultados gerados
+assets/resultados/*
+!assets/resultados/.gitkeep
+!assets/resultados/geracoes/
+
+assets/resultados/geracoes/*
+!assets/resultados/geracoes/.gitkeep
+
+# Cache / testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
