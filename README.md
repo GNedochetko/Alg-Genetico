@@ -6,7 +6,7 @@ Cada individuo da populacao representa uma imagem candidata. Em vez de armazenar
 
 ## Exemplo de Resultado
 
-Melhor individuo obtido na configuracao com mais triangulos:
+Melhor individuo obtido usando a imagem da Mona Lisa como alvo:
 
 ![Melhor individuo com mais triangulos](melhor_individuo_mais_triangulos.png)
 
